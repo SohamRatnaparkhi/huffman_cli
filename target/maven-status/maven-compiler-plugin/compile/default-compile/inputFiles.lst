@@ -1,0 +1,9 @@
+/home/sohamr/projects/daa/huffman_cli/src/main/java/com/huffman_cli/utils/Data.java
+/home/sohamr/projects/daa/huffman_cli/src/main/java/com/huffman_cli/App.java
+/home/sohamr/projects/daa/huffman_cli/src/main/java/com/huffman_cli/utils/file_handle/FileUtils.java
+/home/sohamr/projects/daa/huffman_cli/src/main/java/com/huffman_cli/utils/Tree.java
+/home/sohamr/projects/daa/huffman_cli/src/main/java/com/huffman_cli/utils/file_handle/FilePath.java
+/home/sohamr/projects/daa/huffman_cli/src/main/java/com/huffman_cli/utils/HuffmanCoding.java
+/home/sohamr/projects/daa/huffman_cli/src/main/java/com/huffman_cli/HuffmanCommand.java
+/home/sohamr/projects/daa/huffman_cli/src/main/java/com/huffman_cli/utils/io/BitInputStream.java
+/home/sohamr/projects/daa/huffman_cli/src/main/java/com/huffman_cli/utils/io/BitOutputStream.java
